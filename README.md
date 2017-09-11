@@ -25,7 +25,6 @@ Typically the interview questions for these internships revolve around base conc
 
 #### On sight, Online interviews
 Interviews could take place on the phone, Google Hangouts, or inperson at the companies HQ. Interviewers are typically engineers. They want to test your knowledge, but more importantly they want to see how you think and get a preview of what it would be like to work with you. When interviewing be sure to explain outloud what is going through your mind so they can see your thought process. The interviewers aren't there to just judge you, they are there to work with you! If you are confused on anything, no matter how dumb you might feel, ask a question about it. Have an open dialogue with the interviewer. I personally like to view it as a pair programming exercise. 
-
 If an interviewer asks you a question you have done before let them know.
 
 #### Recommended
