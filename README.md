@@ -21,4 +21,4 @@ Here are the link listings for Summer 2018 listings. These programs hire on a ro
 [Facebook University](https://www.facebook.com/careers/university/fbueng)
 
 ## Interview
-Checkout INTERVIEW.md
+Checkout [INTERVIEW](https://github.com/smcintosh881/first-internship/blob/master/INTERVIEW.md)
