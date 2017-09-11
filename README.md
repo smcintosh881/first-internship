@@ -1,8 +1,8 @@
 # First Internship
 This is a how to guide on landing an internship at Facebook, Google, or Microsoft in your 1st-2nd year.
-This will be broken down into three different modules Resume, Projects, and Interview to guide you through the process. 
+This will be broken down into three different modules Resume, Projects, and Interview to guide you through the process. We want to help provide new students with necessary materials to aid in the success of their early careers. 
 
-## What are these programs?
+## Why would Google hire me?
 Many tech companies are beginning to offer internship programs specifcally designed for first and second year students. They focus on developing your technical skills as well as exposing you to how industry works and the general software development process. These programs look for students that are excited to work at the company and are passionate about software development. These internships are essentially the same as regular Software Engineer internships, except they focus more on developing your skills and providing mentorship. 
 
 ### First hand experience
@@ -42,5 +42,9 @@ Checkout the [Interview Module](https://github.com/smcintosh881/first-internship
 
 #### Want to contribute?
 If you want to share your experience participating in these programs or want to contribute materials to one of the three modules submit a pull request and assign to smcintosh881. 
+
+
+
+..
 
 Cheers! :beers:
