@@ -1,6 +1,6 @@
 # Resume (30 Minutes)
 
-By the end of this module you will have a completed resume that can be used for job applications or career fair. 
+By the end of [this module](https://github.com/smcintosh881/first-internship/blob/master/resume/RESUME.md) you will have a completed resume that can be used for job applications or career fair. 
 
 ### Content
 
