@@ -55,7 +55,7 @@ Be sure to list your email and phone number so recruiters can contact you. It is
 
 
 ### Next Steps
-If your artistic skills don't shine as bright as your development skills fear not! Websites such as [Canva](https://www.canva.com) enable anyone to create a resume that looks professionally designed. [LinkedIn](https://linkedin.com) also has an export resume as PDF option. 
+Now its time for you to give it a go! If you want some help with design/layout [this website](https://www.canva.com) offers an online editor with templates (the [provided example](https://github.com/smcintosh881/first-internship/blob/master/resume/example.pdf) was created using this tool). Another option is to used [LinkedIn](https://linkedin.com) and export it as PDF. 
 
 Checkout the the [provided example](https://github.com/smcintosh881/first-internship/blob/master/resume/example.pdf) of a first year student at RIT to see what your resume could look like.
 
