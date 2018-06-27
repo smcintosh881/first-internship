@@ -11,6 +11,13 @@ At this point any information from highschool should no longer be on your resume
 
 Key content for a tech based resume are __Education, Experience, Projects, and Skills__. A bonus category I like to add is __Hobbies__. This section brings a little personality to your resume and can serve as a conversation starter with recruiters. 
 
+### Objective
+There are debates whether or not you should have an objective section. Should you need a little bit more content to cover the page or desire to clarify what you are looking for add a little personal statement. If your resume is going to be handed out at career fairs where you talk directly to a recruiter there isn't a huge need and online applications typically ask for a cover letter. 
+
+### Contact Information
+Be sure to list your email and phone number so recruiters can contact you. Put this at the top and easy to see! It is recomended to add links to either [LinkedIn](https://linkedin.com) or [GitHub](https://github.com). The later is especially important if you have a personal website or personal projects linked to that GitHub account. 
+(Students get a free [developer pack](https://education.github.com/pack/))
+
 ### Education
 For this section include information about your college and the program you are in. 
 
@@ -46,13 +53,6 @@ Here is the area where you can highlight your technical skills. Most likely this
 6. HTML/CSS
 
 It's important to let recruiters know how proficent you are in these skills. In the provided example resume skill section there are dots to represent which skills you are best at. 
-
-### Objective
-There are debates whether or not you should have an objective section. Should you need a little bit more content to cover the page or desire to clarify what you are looking for add a little personal statement.
-
-### Contact Information
-Be sure to list your email and phone number so recruiters can contact you. It is recomended to add links to either [LinkedIn](https://linkedin.com) or [GitHub](https://github.com). The later is especially important if you have a personal website or personal projects linked to that GitHub account. 
-(Students get a free [developer pack](https://education.github.com/pack/))
 
 
 ### Next Steps
