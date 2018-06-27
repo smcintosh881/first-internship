@@ -1,6 +1,7 @@
 # Resume (30 Minutes)
 
 By the end of this module you will have a completed resume that can be used for job applications or career fair. 
+Checkout my presentation [here](https://docs.google.com/presentation/d/12rxK14GFmhHbWh_abrOBQkjJGP4qVOajPsXMAQiC_-o/edit?usp=sharing).
 
 ### Content
 
