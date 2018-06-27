@@ -7,7 +7,9 @@ Checkout my presentation [here](https://docs.google.com/presentation/d/12rxK14GF
 
 Your resume is the first thing that recruiters will see so make it count! A resume should be the paper representation of you as a person and your career thus far. 
 
-At this point any information from highschool should no longer be on your resume. These accomplishments might be significant, however they are not relevant content anymore. Keep your information up to date. 
+At this point any information from highschool should no longer be on your resume (with a few expections). These accomplishments might be significant, however they might not relevant content. Keep your information up to date.
+
+If you have a long standing volunteer experince, or cool project that you are passionate about its good to have these as conversation pieces with recruiters, however only include if you need a little bit more for your resume. 
 
 Key content for a tech based resume are __Education, Experience, Projects, and Skills__. A bonus category I like to add is __Hobbies__. This section brings a little personality to your resume and can serve as a conversation starter with recruiters. 
 
