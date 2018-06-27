@@ -38,11 +38,11 @@ Another bit of informatio to include would be any minors your are pursing or if 
 ### Experience 
 Chances are you might not have had relevant experience to the job you are applying to. This section can be difficult to fill in. Here are some suggestions:
 
-1. Course Assistant experience 
-2. Volunteer for computing based inititives 
-3. Membership in computing related clubs on campus
-4. Hackathons
-5. Projects (if you do not have any checkout the [Projects Module]())
+1. Course Assistant experience --> experience teaching others can be an indicator that you can explain your solutions or problems well
+2. Volunteer for computing based inititives --> shows passion for the industry you are getting into!
+3. Membership in computing related clubs on campus --> shows your passion and that you are actively engaging with other community members
+4. Hackathons --> cool projects, stories, and shows the passion! Very relatable topic. 
+5. Projects (if you do not have any checkout the [Projects Module]()) --> experience with projects can highlight the same skills you would learn on the job, both technical and soft skills. 
 
 ### Skills
 Here is the area where you can highlight your technical skills. Most likely this will consist of one or two languages and possibly a framework. Some examples are:
