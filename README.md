@@ -27,17 +27,10 @@ Checkout the [Resume Module]() to learn more about what to put on your resume.
 Checkout the [Project Module]() to prepare content for your resume. 
 
 ## Application Links
-Here are the links for Summer 2018 applications. These programs hire on a rolling basis so apply as soon as possible. Most are fully hired by December. 
-
-[Google Engineering Practicum](https://careers.google.com/jobs#!t=jo&jid=/google/engineering-practicum-intern-summer-2018-1600-amphitheatre-pkwy-mountain-view-ca-2785420182&)
-
-[Microsoft Explorer](https://careers.microsoft.com/students/explore)
-
-[Facebook University](https://www.facebook.com/careers/university/fbueng)
+Most job applications will open August 2019!
 
 ## Interview
 Checkout the [Interview Module](https://github.com/smcintosh881/first-internship/blob/master/INTERVIEW.md)
-
 
 
 #### Want to contribute?
